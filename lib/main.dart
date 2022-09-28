@@ -1,3 +1,4 @@
+// John Cairo Minerva, BSCS 3-A AI
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
